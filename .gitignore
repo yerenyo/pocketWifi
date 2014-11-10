@@ -1,0 +1,5 @@
+*.DS_Store
+project.xcworkspace/
+xcuserdata/
+QooccNews.xcodeproj/xcuserdata/Qoocc_apple.xcuserdatad/xcschemes/xcschememanagement.plist
+QooccNews.xcodeproj/project.xcworkspace/xcuserdata/qoocc03.xcuserdatad/UserInterfaceState.xcuserstate
